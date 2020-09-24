@@ -1,5 +1,8 @@
 # macTerminalConfig
 ## zsh Config
+
+![Terminal Window](https://github.com/manisaiprasad/macTerminalConfig/blob/master/demo.png)
+
 I have used  Spaceship Zsh prompt which is a minimalistic, powerful and extremely customizable Zsh prompt. It combines everything you may need for convenient work, without unnecessary complications, like a real spaceship.
 
 I installed it through npm
@@ -19,3 +22,5 @@ Highlights Syntax in the Terminal
 Suggest commands based on your history and quickly access them
 
 [Installation Guide](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh)
+
+![Terminal Video](https://github.com/manisaiprasad/macTerminalConfig/blob/master/demo.mov)
